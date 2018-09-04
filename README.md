@@ -1,0 +1,2 @@
+# SendGridEventsHandlerLambda
+SendGridのイベントをDynamoDBに記録し、かつ特定のカテゴリ、イベントをSNSに通知する
